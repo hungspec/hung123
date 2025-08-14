@@ -1,21 +1,22 @@
 <h1 align="center">📚 Textbook Library Management System 🎉</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/QnVh0xG/library-banner-alt.jpg" alt="Library Banner" width="800"/>
+  <img src="https://i.ibb.co/4S3TVpH/library-banner.jpg" alt="Library Banner" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình;Nhóm+08+OOP_N02_T3_2_2025_" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&width=950&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình+Học+Và+Giảng+Dạy;Nhóm+08+OOP_N02_T3_2_2025_" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/phamkheng/OOP_N02_T3_2_2025_Group1">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" alt="Developer Badge"/>
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/contribbadge.gif" width="50" alt="Contributor Badge"/>
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="50" alt="Developer Badge" />
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/contribbadge.gif" width="50" alt="Contributor Badge" />
     <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/github/license/phamkheng/OOP_N02_T3_2_2025_Group1?style=flat-square" alt="License Badge"/>
   </a>
 </p>
+
 
 📋 Mục lục
 
