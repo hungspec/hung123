@@ -5,7 +5,7 @@
 
 <!-- Tiêu đề màu đỏ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1200&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình+Học+Và+Giảng+Dạy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1200&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình+Học+Và+Giảng+Dạy;Nhóm+08+OOP_N02_T3_2_2025" alt="Typing SVG" />
 </p>
 
 
