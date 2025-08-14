@@ -1,32 +1,33 @@
-<div id="top">
+<div id="top" align="center">
 
 <!-- Banner -->
-<p align="center">
-  <img src="../main/images/pexels-tiennguyen-19830787.jpg" alt="Library Banner" width="80%">
-</p>
+<img src="images/—Pngtree—3d animation boy and girl_16531218.jpg" alt="Library Banner" width="60%">
 
-<!-- Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4B4B&center=true&vCenter=true&width=950&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình+Học+Và+Giảng+Dạy;Nhóm+08+OOP_N02_T3_2_2025_" alt="Typing SVG" />
-</p>
+<!-- Tiêu đề màu đỏ -->
+<h2 style="color:red;">
+Chào mừng đến với Ứng Dụng Quản Lý Thư Viện Giáo Trình Học Và Giảng Dạy
+</h2>
 
-<!-- Slogan -->
-<p align="center">
-  <em>Ứng dụng giúp quản lý thư viện giáo trình hiệu quả, hiện đại và dễ sử dụng.</em>
-</p>
+<em>Ứng dụng giúp quản lý thư viện giáo trình hiệu quả, tiện dụng và dễ sử dụng.</em>
 
 <!-- Badges -->
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Java-Spring%20Boot-orange?logo=java&logoColor=white" alt="Java Badge"/>
-    <img src="https://img.shields.io/github/license/phamkheng/OOP_N02_T3_2_2025_Group1?style=flat-square" alt="License Badge"/>
-    <img src="https://img.shields.io/github/stars/phamkheng/OOP_N02_T3_2_2025_Group1?style=social" alt="Stars Badge"/>
-    <img src="https://img.shields.io/github/issues/phamkheng/OOP_N02_T3_2_2025_Group1?color=blue" alt="Issues Badge"/>
-  </a>
+  <a href="#"><img src="https://img.shields.io/github/actions/workflow/status/eli64s/readme-ai/release-pipeline.yml?logo=githubactions&label=CI&logoColor=white&color=4169E1" alt="CI Status"></a>
+  <a href="#"><img src="https://img.shields.io/codecov/c/github/eli64s/readme-ai?logo=codecov&logoColor=white&label=Coverage&color=5D4ED3" alt="Test Coverage"></a>
+  <a href="#"><img src="https://img.shields.io/pypi/v/readmeai?logo=Python&logoColor=white&label=PyPI&color=7934C5" alt="PyPI Version"></a>
+  <a href="#"><img src="https://img.shields.io/pepy/dt/readmeai?logo=PyPI&logoColor=white&label=Downloads&color=9400D3" alt="Total Downloads"></a>
+  <a href="#"><img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=8A2BE2" alt="MIT License"></a>
 </p>
 
-<!-- Gradient Line -->
-<img src="https://raw.githubusercontent.com/eli64s/readme-ai/main/docs/docs/assets/svg/line-gradient.svg" alt="line break" width="100%" height="3px">
+</div>
+
+---
+
+## Thư viện & Hình ảnh minh họa
+
+![Thư viện 1](images/—Pngtree—3d animation boy and girl_16531218.jpg)
+![Thư viện 2](images/pexels-tiennguyen-19830787.jpg)
+
 
 ## 📌 Quick Links
 
