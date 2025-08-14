@@ -15,7 +15,8 @@ WORKDIR /app
 
 # Copy file WAR/JAR từ stage build
 # Đổi tên DrComputer-0.0.1-SNAPSHOT.war thành tên file thực tế trong target/
-COPY --from=build /app/target/DrComputer-0.0.1-SNAPSHOT.war app.war
+COPY --from=build /complete/target/*.war app.war
+
 
 # Mở cổng 8080
 EXPOSE 8080
