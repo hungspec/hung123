@@ -4,9 +4,10 @@
 <img src="images/—Pngtree—3d animation boy and girl_16531218.jpg" alt="Library Banner" width="60%">
 
 <!-- Tiêu đề màu đỏ -->
-<h2 style="color:red;">
-Chào mừng đến với Ứng Dụng Quản Lý Thư Viện Giáo Trình Học Và Giảng Dạy
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=1200&height=80&lines=Chào+mừng+đến+với+Ứng+Dụng+Quản+Lý+Thư+Viện+Giáo+Trình+Học+Và+Giảng+Dạy" alt="Typing SVG" />
+</p>
+
 
 <em>Ứng dụng giúp quản lý thư viện giáo trình hiệu quả, tiện dụng và dễ sử dụng.</em>
 
