@@ -8,8 +8,7 @@ RUN mvn clean package -DskipTests
 # Stage 2: Run
 FROM openjdk:17-jdk-slim
 WORKDIR /app
-# Copy file WAR/JAR đúng từ stage build
 COPY --from=build /app/target/*.war app.war
 
 EXPOSE 8080
-ENTRYPOINT ["java","-jar","app.war"]
+ENTRYPOINT ["java","-jar","/app/app.war"]
